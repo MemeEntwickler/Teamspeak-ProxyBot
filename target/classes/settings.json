@@ -1,0 +1,28 @@
+{
+  "host": "127.0.0.1",
+  "user": "serveradmin",
+  "password": "password",
+  "botname": "ProxyBot",
+  "port": "9987",
+  "supportchannelID": "0",
+  "notifyGroupID": "0",
+  "verifyGroupID": "0",
+
+  "mysqlHost": "127.0.0.1",
+  "mysqlDatabse": "database",
+  "mysqlUser": "admin",
+  "mysqlPassword": "password",
+
+  "sendTeamspeakMessage": "true",
+  "sendTeamspeakUserMessage": "true",
+  "sendMinecraftMessage": "true",
+
+  "kickVPNteamspeak": "true",
+  "kickVPNminecraft": "true",
+  "useVerifySystem": "true",
+  "setVerifyGroup": "true",
+  "groupSync": "true",
+
+  "commandUsePermission": "system.support.use",
+  "getSupportMessagePermission": "system.support.message"
+}

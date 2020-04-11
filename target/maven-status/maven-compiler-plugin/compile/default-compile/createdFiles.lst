@@ -1,0 +1,12 @@
+eu\memeentwickler\commands\VerifyCommand.class
+eu\memeentwickler\teamspeak\EventManager$1.class
+eu\memeentwickler\vpn\CheckService.class
+eu\memeentwickler\database\Database.class
+eu\memeentwickler\database\VerifyManager.class
+eu\memeentwickler\updater\UpdateChecker.class
+eu\memeentwickler\teamspeak\EventManager.class
+eu\memeentwickler\commands\SupportCommand.class
+eu\memeentwickler\ProxyBot.class
+eu\memeentwickler\utils\BotConfig.class
+eu\memeentwickler\commands\ProxyBotCommand.class
+eu\memeentwickler\listener\LoginListener.class

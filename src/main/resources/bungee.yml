@@ -1,0 +1,8 @@
+name: ProxyBot
+author: MemeEntwickler
+version: 1.3.9
+main: eu.memeentwickler.ProxyBot
+commands:
+  support:
+  verify:
+  pbot:

@@ -1,0 +1,52 @@
+{
+  "host": "127.0.0.1",
+  "user": "serveradmin",
+  "password": "password",
+  "botname": "ProxyBot",
+  "port": "9987",
+  "supportchannelID": "0",
+  "notifyGroupID": "0",
+  "verifyGroupID": "0",
+
+  "mysqlHost": "127.0.0.1",
+  "mysqlDatabse": "database",
+  "mysqlUser": "admin",
+  "mysqlPassword": "password",
+
+  "prefix": "§8» &cProxyBot &8┃ §7",
+  "noPermissions": "&cKeine Rechte.",
+  "supportOpen": "Du hast den Support Geöffnet.",
+  "supportClosed": "Du hast den Support Geschlossen",
+  "supportIsOpen": "Der Support ist bereits Geöffnet.",
+  "supportIsClosed": "Der Support ist bereits Geschlossen.",
+  "supportError": "Es gab einen Fehler.",
+  "ingameMessage": "Der User %player% wartet auf Support.",
+  "teamspeakMessage": "Der User %user% wartet auf Support.",
+  "teamspeakUserMessage": "Es sind %sups% Supporter verfügbar.",
+
+  "userIsVerified": "Du bist bereits Verifiziert.",
+  "userVerificationSuccess": "Du wurdest erfolgreich Verifiziert. Nickname: &e%nickname%",
+  "userUnlinkSuccess": "Deine Verifiziert wurde erfolgreich Gelöscht.",
+  "userUnlinkFailed": "Du bist nicht Verifiziert.",
+  "userVerificationSuccessTeamspeak": "Du bist nun mit dem Minecraft-Konto [b]%playername%[/b] Verifiziert.",
+  "userVerificationFailed": "Du konntest nicht Verifizert werden.",
+  "clientSearching": "Client wird gesucht..",
+  "clientVerifyDescription": "Verifiziert als %playername% mit der UUID: %playeruuid%.",
+  "userTeamspeakInfoMessage": "Wilkommen auf deinserver.de! Du kannst dich auf unserem Minecraft Server mit [b]/verify[/b] Verifizieren.",
+
+  "kickVPNreasonTeamspeak": "Wir erlauben keine VPN",
+  "kickVPNreasonMinecraft": "&cWir erlauben keine VPN",
+
+  "sendTeamspeakMessage": "true",
+  "sendTeamspeakUserMessage": "true",
+  "sendMinecraftMessage": "true",
+
+  "kickVPNteamspeak": "true",
+  "kickVPNminecraft": "true",
+  "useVerifySystem": "true",
+  "setVerifyGroup": "true",
+  "useGroupSync": "true",
+
+  "commandUsePermission": "system.support.use",
+  "getSupportMessagePermission": "system.support.message"
+}
